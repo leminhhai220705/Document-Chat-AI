@@ -146,6 +146,6 @@ src/
 
 - Contributions are welcome! Please create an issue or pull request.
 
-**Developed by**: Lehai
-**Version**: 1.0.0
-**Updated**: September 2025
+- **Developed by**: Lehai
+- **Version**: 1.0.0
+- **Updated**: September 2025
